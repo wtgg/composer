@@ -1,0 +1,14 @@
+{
+    "name": "wt/composer",
+    "description": "composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "王涛哥哥",
+            "email": "wtlit@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
